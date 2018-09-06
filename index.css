@@ -1,0 +1,54 @@
+body{
+background-color: #44897A;
+}
+ul
+{
+list-style: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #6B7A8F;
+
+}
+li
+{
+float: left;
+
+}
+li a
+{
+display: block;
+color: white;
+text-align:center;
+padding: 14px 16px;
+text-decoration: none;
+font-family:Helvetica;
+}
+li a:hover
+{
+	background-color: #F7882F;
+
+}
+p
+{
+border-style: solid;
+border-color:#6EA498;
+text-align:center; 
+}
+p{
+line-height: 40px;
+font-weight: bold;
+font-size: 150%;
+font-family: 'Gamja Flower', cursive;
+}
+
+img
+{
+	float: left;
+}
+	
+footer
+{
+	text-align:center;
+}
+
